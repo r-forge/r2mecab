@@ -1,7 +1,7 @@
 Package: R2MeCab
 Type: Package
 Title: Interface for mecab
-Version: 0.00001
+Version: 0.00002
 Date: 2013-03-28
 Author: Motohiro ISHIDA
 Maintainer: Motohiro ISHIDA <ishida.motohiro@gmail.com>
